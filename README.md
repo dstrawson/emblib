@@ -1,4 +1,4 @@
 emblib
 ======
 
-Emeb
+Emebedded Electronics Library
